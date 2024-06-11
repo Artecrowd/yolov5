@@ -1,4 +1,4 @@
-# Jason Nano + Yolo를 이용한 실시간 객체 탐지 Custom Python Code
+# Jetson Nano + Yolo를 이용한 실시간 객체 탐지 Custom Python Code
 
 ### Yolo를 기반으로 작성한 실시간 or 영상의 프레임을 추출하여 설정해둔 범위 내 객체 유무 탐지 후 MQTT를 이용한 Firebase Realtime Database 값 저장 or 수정
 
