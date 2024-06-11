@@ -6,6 +6,13 @@
 
 ![image](https://github.com/Artecrowd/yolov5/assets/127479677/8a289e27-d830-493b-9e2e-d88a04d76b63)
 
+##### Custom Object
+
+객체 존재 유무만 판별하면 되기에 불필요한 라벨링 이름 제거
+
+![image](https://github.com/Artecrowd/yolov5/assets/127479677/3c66807a-17de-4fc4-bbd8-8b1f683e22a5)
+
+
 ### 좌표 탐지를 통한 범위 탐지
 
 ![image](https://github.com/Artecrowd/yolov5/assets/127479677/9a390887-3e5b-4958-bb1f-aaef9776f646)
