@@ -4,23 +4,22 @@
 
 ### Custom Object Dataset을 통한 정밀 감지 및 불필요한 감지 제거
 
-![image](https://github.com/Artecrowd/yolov5/assets/127479677/8a289e27-d830-493b-9e2e-d88a04d76b63)
+<img src="https://github.com/Artecrowd/yolov5/assets/127479677/8a289e27-d830-493b-9e2e-d88a04d76b63" width="70%" height="50%" align="center">
 
-##### Custom Object
+### Custom Object
 
 객체 존재 유무만 판별하면 되기에 불필요한 라벨링 이름 제거
 
-![image](https://github.com/Artecrowd/yolov5/assets/127479677/3c66807a-17de-4fc4-bbd8-8b1f683e22a5)
-
+<img src="https://github.com/Artecrowd/yolov5/assets/127479677/3c66807a-17de-4fc4-bbd8-8b1f683e22a5" width="70%" height="50%" align="center">
 
 ### 좌표 탐지를 통한 범위 탐지
 
-![image](https://github.com/Artecrowd/yolov5/assets/127479677/9a390887-3e5b-4958-bb1f-aaef9776f646)
+<img src="https://github.com/Artecrowd/yolov5/assets/127479677/9a390887-3e5b-4958-bb1f-aaef9776f646" width="70%" height="50%" align="center">
 
 ### torch_no_gard()를 이용한 백그라운드 쓰레드보다 효율적인 동시 작업
 
-![image](https://github.com/Artecrowd/yolov5/assets/127479677/244394ce-c019-4092-aafc-0f09ba256c58)
+<img src="https://github.com/Artecrowd/yolov5/assets/127479677/244394ce-c019-4092-aafc-0f09ba256c58" width="70%" height="50%" align="center">
 
 ### 실 사용 예시
 
-![image](https://github.com/Artecrowd/yolov5/assets/127479677/8bafdf10-de19-41e6-8072-b2e259147a30)
+<img src="https://github.com/Artecrowd/yolov5/assets/127479677/8bafdf10-de19-41e6-8072-b2e259147a30" width="70%" height="50%" align="center">
